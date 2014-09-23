@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sebastian/money": "1.5.*",
+        "simpletest/simpletest": "1.1.6"
+    }
+}
